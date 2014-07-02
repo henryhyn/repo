@@ -1,0 +1,6 @@
+[centos]
+name=centos
+baseurl=http://mirrors.sohu.com/centos/6.5/os/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=http://mirrors.sohu.com/centos/RPM-GPG-KEY-CentOS-6

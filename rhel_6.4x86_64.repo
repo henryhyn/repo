@@ -1,0 +1,6 @@
+[RHEL_6.4x86_64]
+name=RHEL_6.4x86_64
+baseurl=http://10.61.13.97/RHEL_6.4x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=http://10.61.13.97/RHEL_6.4x86_64/RPM-GPG-KEY-redhat-release

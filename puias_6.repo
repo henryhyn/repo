@@ -1,0 +1,6 @@
+[PUIAS_6_computational]
+name=PUIAS computational Base 6 - $basearch
+baseurl=http://springdale.math.ias.edu/data/puias/computational/6/$basearch
+enabled=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-puias
