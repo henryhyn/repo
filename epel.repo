@@ -1,6 +1,6 @@
 [epel]
-name=Extra Packages for Enterprise Linux 6 - $basearch
-baseurl=http://mirror.pnl.gov/epel/6/$basearch
+name=Extra Packages for Enterprise Linux 5 - $basearch
+baseurl=http://mirrors.sohu.com/fedora-epel/5/$basearch
 enabled=1
 gpgcheck=1
-gpgkey=http://mirror.pnl.gov/epel/RPM-GPG-KEY-EPEL-6
+gpgkey=http://mirrors.sohu.com/fedora-epel/RPM-GPG-KEY-EPEL-5
